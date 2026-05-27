@@ -212,7 +212,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true4
+    enabled: true
     options:
       provider: giscus
       options: {}
