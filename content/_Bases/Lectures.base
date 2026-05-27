@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type.contains("lecture")
+    order:
+      - file.name
+      - status
+      - file.ctime
+      - tags
+      - topics covered
+    sort:
+      - property: file.ctime
+        direction: DESC

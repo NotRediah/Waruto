@@ -1,0 +1,1 @@
+on wayland you need to install wtyple wclipboard and a couple of other dependencies aswell
