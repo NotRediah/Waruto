@@ -9,7 +9,7 @@ dg-publish: true
 ## References
 [[Introduction to Civics and Comuunity Engagement]]
 ## Overview (final)
-![[Civics and Community Engagement.svg]]
+![[Civics and Community Engagement.svg|200]]
 - Government
 	- forms
 		- democracy
