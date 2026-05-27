@@ -1,1 +1,0 @@
-[link](https://zawaruto.vercel.app/005-fun/guides/quartz-4/)
