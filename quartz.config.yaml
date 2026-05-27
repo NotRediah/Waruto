@@ -212,10 +212,24 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: true4
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: notrediah/Waruto
+        repoId: R_kgDOSpQv_w
+        category: Announcements
+        categoryId: DIC_kwDOSpQv_84C99b_
+        mapping: pathname
+        strict: 0
+        reactionsEnabled: 1
+        emitMetadata: 0
+        inputPosition: bottom
+        theme: preferred_color_scheme
+        lang: en
+    layout:
+      position: afterBody
+      priority: 10
     layout:
       position: afterBody
       priority: 10
