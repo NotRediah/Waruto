@@ -5,6 +5,7 @@ tags:
 excalidraw-open-md: true
 image: Civics and Community Engagement.svg
 dg-publish: true
+publish: true
 ---
 ## References
 [[Introduction to Civics and Comuunity Engagement]]
