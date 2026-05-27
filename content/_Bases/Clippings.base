@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.hasTag("clippings")
+    order:
+      - file.name
+  - type: cards
+    name: View
