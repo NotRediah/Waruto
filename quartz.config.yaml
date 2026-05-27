@@ -230,9 +230,6 @@ plugins:
     layout:
       position: afterBody
       priority: 10
-    layout:
-      position: afterBody
-      priority: 10
   - source: github:quartz-community/footer
     enabled: false
     options:
