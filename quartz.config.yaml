@@ -111,7 +111,7 @@ plugins:
   - source: github:quartz-community/remove-draft
     enabled: true
   - source: github:quartz-community/explicit-publish
-    enabled: false
+    enabled: true 
   - source: github:quartz-community/unlisted-pages
     enabled: true
     options: {}
@@ -212,7 +212,7 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true4
     options:
       provider: giscus
       options: {}
@@ -220,7 +220,7 @@ plugins:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
